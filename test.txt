@@ -8,3 +8,6 @@ New Topic Created: SonarQube for continuous inspection of code quality.
 
 SonarQube is an open-source platform developed by SonarSource for continuous inspection of code quality. With this Developer can view all the code smells, vulnerabilities reported by the tool and they can fix the code with the suggestions shown in the tool and also can set the status of each issue, Below are the steps to follow while setting up your project to SonarQube Server
 
+SonarQube for continuous inspection of code quality.
+http://community.jnettechnologies.com/Forums/Forum/GoToNewestPost/39
+
