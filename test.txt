@@ -11,3 +11,18 @@ SonarQube is an open-source platform developed by SonarSource for continuous ins
 SonarQube for continuous inspection of code quality.
 http://community.jnettechnologies.com/Forums/Forum/GoToNewestPost/39
 
+To stop receiving notifications visit this link:
+http:///Forums/Subscription/Unsubscribe/39/c1d0b9bd-0d77-4e35-8998-2e20c6ad7d7a
+
+
+Hi Shaik Abdul Qayoom, 
+Your Password will expire in 7 days..
+If you are using a GCR issued computer with VPN access:
+and are currently connected to the GCR network, either at a GCR
+office or via the VPN, press CTRL+ALT+Delete and choose Change Password. 
+If you are working remotely:
+and do not have a GCR issued computer or do not connect to the GCR network,
+please visit the following link to change your password.
+After logging in click the Change Password tab
+
+
