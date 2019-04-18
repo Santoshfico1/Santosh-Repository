@@ -26,3 +26,7 @@ please visit the following link to change your password.
 After logging in click the Change Password tab
 
 
+
+
+This is to notify you that you have successfully changed your password through ADSelfService Plus.
+
